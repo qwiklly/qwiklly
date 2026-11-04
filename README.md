@@ -2,6 +2,8 @@
 
 Full-stack C#/.NET developer. I build web and mobile apps, from the backend to the UI.
 
+🚀 Projects: [TrackWeather](https://github.com/qwiklly/TrackWeather) · [Shelfie](https://github.com/qwiklly/Shelfie)
+
 
 ### Languages
 
